@@ -6,9 +6,8 @@ Team Members Include:
 
 Programmers: - Josh, Rey, Garet
 
-
 Designers: Heather, Conor, Carolyn
-
 
 Arists: Sam, April
 
+Clone Changes:  Test Pull Request.
