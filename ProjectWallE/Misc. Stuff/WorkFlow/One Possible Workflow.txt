@@ -1,0 +1,24 @@
+1 Prototype every mechanic and function via Blueprints
+
+2 Playtest and make adjustments
+
+3 List all actors and functions that are shared between players, enemies, core item stats, etc
+
+4 Begin to script those the actors and functions in #3
+
+5 Modify Blueprints to allow modification to the code parameters (i.e. movement speeds, jump heights, damage values, etc)
+
+6 Playtest and make adjustments
+
+7 Create Blueprints for all aesthetics (doors, lights, etc)
+
+8 Playtest and make adjustments
+
+9 Art / Polish pass on all assets
+
+10 ???
+
+11 Profit!
+
+
+
