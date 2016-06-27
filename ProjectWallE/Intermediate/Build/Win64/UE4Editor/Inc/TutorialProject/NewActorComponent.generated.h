@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TUTORIALPROJECT_NewActorComponent_generated_h
 
-#define TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_RPC_WRAPPERS
-#define TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_RPC_WRAPPERS_NO_PURE_DECLS
-#define TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_INCLASS_NO_PURE_DECLS \
+#define ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_RPC_WRAPPERS
+#define ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_INCLASS_NO_PURE_DECLS \
 	private: \
 	static void StaticRegisterNativesUNewActorComponent(); \
 	friend TUTORIALPROJECT_API class UClass* Z_Construct_UClass_UNewActorComponent(); \
@@ -26,7 +26,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_INCLASS \
+#define ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_INCLASS \
 	private: \
 	static void StaticRegisterNativesUNewActorComponent(); \
 	friend TUTORIALPROJECT_API class UClass* Z_Construct_UClass_UNewActorComponent(); \
@@ -37,7 +37,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_STANDARD_CONSTRUCTORS \
+#define ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UNewActorComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UNewActorComponent) \
@@ -49,7 +49,7 @@ private: \
 public:
 
 
-#define TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_ENHANCED_CONSTRUCTORS \
+#define ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private copy-constructor, should never be used */ \
 	NO_API UNewActorComponent(const UNewActorComponent& InCopy); \
@@ -59,29 +59,29 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UNewActorComponent); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UNewActorComponent)
 
 
-#define TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_9_PROLOG
-#define TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_GENERATED_BODY_LEGACY \
+#define ProjectWallE_Source_TutorialProject_NewActorComponent_h_9_PROLOG
+#define ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_RPC_WRAPPERS \
-	TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_INCLASS \
-	TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_STANDARD_CONSTRUCTORS \
+	ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_RPC_WRAPPERS \
+	ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_INCLASS \
+	ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_GENERATED_BODY \
+#define ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_INCLASS_NO_PURE_DECLS \
-	TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h_12_ENHANCED_CONSTRUCTORS \
+	ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_INCLASS_NO_PURE_DECLS \
+	ProjectWallE_Source_TutorialProject_NewActorComponent_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID TutorialProject___Copy_Source_TutorialProject_NewActorComponent_h
+#define CURRENT_FILE_ID ProjectWallE_Source_TutorialProject_NewActorComponent_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
