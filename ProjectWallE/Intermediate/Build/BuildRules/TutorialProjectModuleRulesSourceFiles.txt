@@ -1,3 +1,0 @@
-C:\Users\Josh\Desktop\ProjectWally\ProjectWallE\Source\TutorialProject\TutorialProject.Build.cs
-C:\Users\Josh\Desktop\ProjectWally\ProjectWallE\Source\TutorialProject.Target.cs
-C:\Users\Josh\Desktop\ProjectWally\ProjectWallE\Source\TutorialProjectEditor.Target.cs
